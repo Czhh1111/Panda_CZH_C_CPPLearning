@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/buttonicon">
+        <file>MusicButtonIcon/previous-1.svg</file>
+        <file>MusicButtonIcon/play circle.svg</file>
+        <file>MusicButtonIcon/next-1.svg</file>
+        <file>MusicButtonIcon/喇叭.png</file>
+        <file>MusicButtonIcon/song.svg</file>
+        <file>MusicButtonIcon/video-player-1.svg</file>
+        <file>MusicButtonIcon/timg.jpg</file>
+        <file>MusicButtonIcon/background.jpg</file>
+    </qresource>
+    <qresource prefix="/songs">
+        <file>Music/K歌之王.mp3</file>
+        <file>Music/明年今日.mp3</file>
+    </qresource>
+</RCC>
